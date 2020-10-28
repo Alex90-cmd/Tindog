@@ -1,2 +1,1 @@
-# Tindog
-Web-site for searching your friend (dog)
+TinDog Starting Files
